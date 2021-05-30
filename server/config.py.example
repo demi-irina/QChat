@@ -1,0 +1,7 @@
+PORT = 2020
+DB_HOST = "127.0.0.1"
+DB = "DataBaseName"
+USER = "DB_UserName"
+PASS = "DB_Password"
+MAX_CONN_ALLOWED = 100
+
